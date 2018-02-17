@@ -1,5 +1,5 @@
-# ConspiracyBot
-A facebook bot that posts whacky conspiracy theories to facebook.
+# lightningMcQueenBot95
+The car has shoes sentient A.I.
 
 To set up:
 
