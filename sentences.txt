@@ -1,4 +1,8 @@
-<noun-food.s> can cause <disease>!
+The car has <adj> hahahaahaahahahahaah
+wtf why is this <adj> car wearing shoes
+
+
+<noun-car.s> can cause <disease>!
 <group-shady> absolutely created <disease-infectious>, they've been spreading it via <noun-animal.s> for years.
 <celeb::@a> works for <group>. There's no denying that. Have you seen <pron.acc::@a> <face> when <pron.nom::@a> walks past a <noun-job>? Yeah. That can only mean one thing: They have a deal with the <place.s>
 Of course <group> are just a bunch of <adj> <noun-mammal.s>! Just look at their long record of <verb.ing> people just because they're a <noun-job>.
